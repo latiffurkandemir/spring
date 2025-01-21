@@ -16,9 +16,3 @@ The repository is organized into the following sections:
 - **Hibernate/JPA CRUD**: Performing CRUD operations with Hibernate and JPA.
 - **JPA Advanced Mappings**: Mastering advanced entity mappings.
 - **Aspect-Oriented Programming (AOP)**: Using AOP to handle cross-cutting concerns.
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/frknxdmr/spring.git
